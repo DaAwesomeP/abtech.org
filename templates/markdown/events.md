@@ -1,32 +1,6 @@
-Past Events
-<div class = "title-header">
-  <p class="text-justify"> 
-  <a href="#" class="current"> Past Events </a> 
-   <a href="/accolades"> Accolades </a>
-   <a href="/timelapse"> Videos </a>
-  </p>
-</div>
+Our Events
 
-<font size=+1><b>Past Events</b></font><P>
-<table align=center width="100%">
-  <tr>
-    <td width=20%>
-      <center><a href="/events70">1970s</a></center>
-    </td>
-    <td width=20%>
-      <center><a href="/events80">1980s</a></center>
-    </td>
-    <td width=20%>
-      <center><a href="/events90">1990s</a></center>
-    </td>
-    <td width=20%>
-      <center><a href= "/events00">2000s</a></center>
-    </td>
-    <td width=20%>
-      <center><b>2010 - Present</b></center>
-    </td>
-  </tr>
-</table>
+<font size=+1><b>Our Events</b></font>
 
 Over the years, AB Tech has had the [ahem] pleasure of working with a number
 of major acts, although they weren't necessarily that big at the time. This
@@ -77,7 +51,7 @@ accurate.
   </tr>
   <tr>
     <td width="20"></td>
-    <td width="70%"><b>Bülow</b></td>
+    <td width="70%"><b>B&uuml;low</b></td>
     <td nowrap><font size="-1">September 6</font></td>
     <td nowrap><font size="-1">Baker Lawn</font></td>
   </tr>
